@@ -139,7 +139,7 @@
 
 /* ................................mindset style........................ */
 .gradient {
-    background-image: url(../images/watch.png), url(../images/gradient1.png);
+    background-image: url(./images/watch.png), url(./images/gradient2.png);
     background-repeat: no-repeat;
     margin: 130px 230px;
     width: 1140px;
