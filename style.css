@@ -46,7 +46,6 @@
 }
 
 /* banner style */
-
 .banner-images {
     width: 550px;
     height: 753px;
@@ -178,7 +177,6 @@
     font-weight: 700;
     font-size: 40px;
     color: #151414;
-
 }
 
 .plan-title {
@@ -283,6 +281,5 @@
 }
 
 .submit {
-    /* color: #F3F3F3; */
     padding: 15px;
 }
